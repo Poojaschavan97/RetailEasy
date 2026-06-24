@@ -289,17 +289,29 @@ Requirement Traceability Matrix
 RetailEasy-Returns-Automation/
 
 │
+
 ├── 01_Project_Charter
+
 ├── 02_Stakeholder_Analysis
+
 ├── 03_AS_IS_Process
+
 ├── 04_Gap_Analysis
+
 ├── 05_TO_BE_Process
+
 ├── 06_BRD
+
 ├── 07_FRS
+
 ├── 08_Product_Backlog_User_Stories
+
 ├── 09_RTM
+
 ├── 10_Figma_Prototype
+
 ├── Images
+
 └── README.md
 
 
