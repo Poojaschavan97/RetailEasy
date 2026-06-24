@@ -115,7 +115,8 @@ Process Narrative
 
 Pain Point Analysis
 
-[]
+<p align="center"> <img src="assets/as_is_process.png" width="750"> </p>
+
 🚀 TO-BE BPMN Process
 
 The TO-BE process introduces a centralized Returns Automation Portal that automates validation, notifications, tracking, and refund processing.
@@ -154,10 +155,11 @@ Gap Analysis Mapping
 
 AS-IS vs TO-BE Comparison
 
+<p align="center"> <img src="assets/to_be_process.png" width="750"> </p>
 
 📋 Business Requirements
 
-<b><u>Must Have</b></u>
+<b><u>Must Have</u></b>
 
 Online return request submission
 
@@ -175,7 +177,7 @@ Duplicate request prevention
 
 Audit trail management
 
-<b><u>Should Have</b></u>
+<b><u>Should Have</u></b>
 
 Analytics dashboard
 
@@ -224,6 +226,13 @@ Enterprise-ready user experience
 
 
 Tool Used: Figma
+
+<p align="center"> <img src="assets/return_form.png" width="750"> </p>
+
+
+<p align="center"> <img src="assets/refund_list.png" width="750"> </p>
+
+
 
 📈 Expected Business Outcomes
 
